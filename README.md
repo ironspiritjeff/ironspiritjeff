@@ -1,5 +1,5 @@
 ## Jeffrey Torres 👋
-### AI & Machine Learning Engineer | Specializing in Transformers & RAG
+### AI & Machine Learning Engineer - early-career, actively learning.
 - 🔭 **Current Focus**: Fine-tuning LLMs for industry-specific applications (Finance/Healthcare).
 - 🎓 **Education**: Recently completed ZTM's AI/ML & Data Science Bootcamp; currently mastering the Hugging Face ecosystem.
 - ⚡ **Goal**: Building production-ready AI agents and high-performance NLP pipelines.
