@@ -5,7 +5,7 @@
 - ⚡ **Goal**: Building production-ready AI agents and high-performance NLP pipelines for industry specific applications (Healthcare/Finance).
 - 📫 How to reach me: ironspiritjeff@gmail.com
 ### 🚀 Featured Projects
-* Currently working on my first self-directed project; to be completed soon.
+* Ames Iowa House Price Predictor: Regresson model with manual and automated hyperparameter tuning which predicts the sale price of a house.
 ### 📚 Tutorial Based Projects
 * Dog Vision: Deep learning image classification model that predicts 120 different dog breeds found in photos.
 * Food Not Food Text Classifier: Predicts whether a sentence is about food or not, with Gradio Demo on HuggingFace Spaces.
